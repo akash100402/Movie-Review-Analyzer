@@ -1,0 +1,2 @@
+accuracy,training_time_seconds,num_features,train_samples,test_samples,model_type
+0.865449968533669,437.5155260562897,384,31778,7945,SVM with linear kernel
