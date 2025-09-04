@@ -8,9 +8,9 @@ __pycache__/
 
 
 
-svm_test_predictions.csv        
-svm_sentiment_classifier.pkl    
-text_embeddings.npy            
-svm_model_metrics.csv           
+svm_test_predictions.csv
+svm_sentiment_classifier.pkl
+text_embeddings.npy
+svm_model_metrics.csv
 movie_reviews_with_sentiment.csv
 svm_confusion_matrix.png
